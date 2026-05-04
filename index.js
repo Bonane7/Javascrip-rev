@@ -32,15 +32,15 @@
 
 //6 comparaison
 
-// let age = 40;
+let age = 40;
 
-// if(age < 18){
-//     console.log("minuer")
-// }else if(age >= 18 && age <= 36){
-//     console.log('il est mageur')
-// }else{
-//     console.log("Vous avez depasser l'age de 36 ans")
-// }
+if(age < 18){
+    console.log("minuer")
+}else if(age >= 18 && age <= 36){
+    console.log('il est mageur')
+}else{
+    console.log("Vous avez depasser l'age de 36 ans")
+}
 
 // let age = 10;
 // let status = age >= 18 ? "mageurs":"mineur";
@@ -54,15 +54,15 @@
 //     default: console.log("Milieu semaine");
 // }
 
-// switch (envions = "Kenya"){
-//          case "Kenya":
-//         break;
-//         case "Congo": console.log("congo airways");
-//         break;
-//         case "Rwanda": console.log("Rwandair");
-//        break;
-//         default:console.log("taks other transport please")
-// }
+switch (envions = "Kenya"){
+         case "Kenya":
+        break;
+        case "Congo": console.log("congo airways");
+        break;
+        case "Rwanda": console.log("Rwandair");
+       break;
+        default:console.log("taks other transport please")
+}
 
 const hotel="OUGANDA";
 
